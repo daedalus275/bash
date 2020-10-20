@@ -1,0 +1,1 @@
+ssh root@10.30.1.210 "( cd /usr/local/apex/zc/; grep '2020-Aug\|2020-Sep' hostbuffer1 )" > /tmp/ecm-eb-zc1
